@@ -42,14 +42,23 @@ cd Python-ATM-System
 
 python atm.py
 
-Future Improvements
+
+##Future Improvements
 Add GUI using Tkinter
 Store data using JSON or SQLite
 Support multiple user accounts
 Add transaction timestamps
 Improve security features
-Author
+
+##Author
 
 Kathi Varshith
 kathivarshith14@gmailcom
+
+
+
+
+
+
+
 
