@@ -148,7 +148,7 @@ If you'd like to improve this project, feel free to fork the repository and subm
 **Kathi Varshith**
 
 - GitHub: https://github.com/Kathivarshith
-- LinkedIn: *(Add your LinkedIn profile link here)*
+- LinkedIn: https://www.linkedin.com/in/kathi-varshith1114/
 
 ---
 
